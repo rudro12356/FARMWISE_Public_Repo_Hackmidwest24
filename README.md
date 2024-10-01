@@ -33,4 +33,4 @@ With a user-friendly interface, FarmWise ensures that farmers can easily access 
 ![image](https://github.com/user-attachments/assets/0ef6e66a-1bd2-44f7-86d2-fcca5e7cc197)
 
 ## Award
-![image](https://github.com/user-attachments/assets/44420990-d818-4754-aaf8-5512108508a1)
+Won 1st place for ![image](https://github.com/user-attachments/assets/44420990-d818-4754-aaf8-5512108508a1)
