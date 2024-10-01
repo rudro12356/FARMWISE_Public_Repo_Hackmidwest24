@@ -1,5 +1,4 @@
 # Welcome to Hack Midwest 2024!
-<br /><br />
 
 ## Who's on your team?
 *List the full names,  email address & Github username of your teammates*
@@ -7,8 +6,6 @@
 1.   **RokunuzJahan Rudro**  || **rudro12356@ku.edu** || **rudro12356**
 2.   **Md. Mashfiq Rizvee**  || **mashfiq.rizvee@ku.edu** || **mashfiq137** 
 3.   **Rahman, Moh Absar**   || **moh.absar.rahman@ku.edu** || **absarrahman**
-
-<br /><br />
 
 ## What is the name of your App?
 
