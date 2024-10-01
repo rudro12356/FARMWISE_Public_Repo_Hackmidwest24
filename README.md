@@ -8,7 +8,6 @@
 3.   **Rahman, Moh Absar**   || **moh.absar.rahman@ku.edu** || **absarrahman**
 
 ## What is the name of your App?
-
 <br />FARMWISE<br />
 ## What does your app do?
 
